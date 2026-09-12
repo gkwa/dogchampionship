@@ -4,8 +4,8 @@ go 1.25.0
 
 require (
 	github.com/gin-gonic/gin v1.12.0
-	go.mongodb.org/mongo-driver/v2 v2.9.0
-	go.mongodb.org/mongo-driver/v2 v2.9.0
+	go.mongodb.org/mongo-driver v1.17.10
+	go.mongodb.org/mongo-driver/v2 v2.9.1
 )
 
 require (
